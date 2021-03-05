@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801422645393",
+    "project_id": "parxlab-project",
+    "storage_bucket": "parxlab-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801422645393:android:37c990290d35530a198730",
+        "android_client_info": {
+          "package_name": "com.example.parxlab_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801422645393-2bnc6esj22vu22iq972u64pkh49be0pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-AGrkE3jLvpDMGFwDQTK5gnps-GnzAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801422645393-2bnc6esj22vu22iq972u64pkh49be0pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
