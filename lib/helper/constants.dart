@@ -1,0 +1,1 @@
+final appBarTitle = "ParxLab";
